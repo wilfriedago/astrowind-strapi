@@ -11,9 +11,12 @@
   },
   "devDependencies": {},
   "dependencies": {
+    "@localazy/strapi-plugin": "^0.1.10",
     "@strapi/plugin-graphql": "^4.4.1",
     "@strapi/plugin-i18n": "4.4.1",
+    "@strapi/plugin-seo": "^1.7.5",
     "@strapi/plugin-users-permissions": "4.4.1",
+    "@strapi/provider-upload-cloudinary": "^4.4.1",
     "@strapi/strapi": "4.4.1",
     "better-sqlite3": "7.4.6"
   },
